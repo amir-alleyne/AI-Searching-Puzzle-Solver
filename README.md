@@ -13,8 +13,8 @@ The goal is to move the pieces until the 2x2 piece is above the bottom opening (
 
 # HOW TO RUN PROGRAM 
 Cd to directory with code and run the below in the terminal :
-    python3 hrd.py --algo astar --inputfile board.txt --outputfile solution.txt  
-    python3 hrd.py --algo dfs --inputfile board.txt --outputfile solution.txt
+    python3 hrd.py --algo astar --inputfile brd.txt --outputfile solution.txt  
+    python3 hrd.py --algo dfs --inputfile brd.txt --outputfile solution.txt
     
     
 # OUTPUT FILE -
